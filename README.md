@@ -6,9 +6,9 @@ This project simulates real-world e-commerce analytics using a Flipkart-style da
 
 ## 🖼️ Project Thumbnail
 
-![Flipkart SQL Project Thumbnail](/flipkart.gif)
+![Flipkart SQL Project Thumbnail](./flipkart.gif)
 
-📄 **[Click here to view the full PDF report](/Flipkart_SQL_Project.pdf)**
+📄 **[Click here to view the full PDF report](./flipkart_sql_project.pdf)**
 
 ---
 
